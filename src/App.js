@@ -9,6 +9,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <div className="description">
+          {/* 추가한 설명 섹션 */}
+          <p>Seeon's first react app</p>
+        </div>
         <a
           className="App-link"
           href="https://reactjs.org"
